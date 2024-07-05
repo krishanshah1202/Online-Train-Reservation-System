@@ -1,0 +1,23 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Krishan Shah\\Downloads\\mysql-connector-j-8.3.0.jar",
+        "c:\\Users\\Krishan Shah\\Desktop\\mysql-connector-j-8.3.0.jar"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "username": "root",
+            "database": "TrainReservationSystem",
+            "name": "Krishan_Shah"
+        }
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}

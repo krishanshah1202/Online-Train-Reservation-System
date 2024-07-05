@@ -1,15 +1,18 @@
-# Online-Train-Reservation-System
-Welcome to the Train Reservation System! This Java-based project provides a comprehensive solution for train reservations, including user signup, login, booking, PNR search, cancellation, and train details. The backend is powered by SQL to store and manage all data efficiently.
-Features
+## Getting Started
 
-    User Signup & Login: Secure user registration and authentication.
-    Booking: Reserve train tickets with ease.
-    PNR Search: Check your reservation status using your PNR number.
-    Cancellation: Cancel your bookings and get refund details.
-    Train Details: View detailed information about available trains.
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-Technologies Used
+## Folder Structure
 
-    Java: Core language for developing the application.
-    SQL: Database management to store and retrieve data.
-    JDBC: Connect Java applications to the SQL database.
+The workspace contains two folders by default, where:
+
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
+
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).

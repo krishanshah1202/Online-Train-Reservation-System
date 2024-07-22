@@ -1,19 +1,37 @@
-## Getting Started
+Online Train Reservation System
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to the Online Train Reservation System! This application is designed to provide a seamless and efficient way to book train tickets, manage reservations, and check travel details. Developed using Java and SQL, our system ensures a reliable and robust platform for all your train travel needs.
+Features
+User-Friendly Interface
 
-## Folder Structure
+Our system is built with a focus on user experience, offering a clean and intuitive interface that makes navigation and usage effortless for all users.
+Easy Access
 
-The workspace contains two folders by default, where:
+    Sign Up Page: New users can quickly sign up with their details to create an account.
+    Login Page: Existing users can log in using their credentials to access their accounts.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Booking
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+    Book Tickets: Easily search for available trains and book tickets for your preferred routes and travel dates.
+    Seat Selection: Choose your seats from the available options.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Cancellations
 
-## Dependency Management
+    Cancel Reservations: If your travel plans change, you can easily cancel your bookings through the system.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+PNR Details
+
+    Check PNR Status: Enter your PNR (Passenger Name Record) to check the status of your bookings and travel details.
+
+Technologies Used
+
+    Java: The core programming language used for developing the application.
+    SQL: For managing and querying the database to store user information, bookings, cancellations, and PNR details.
+
+Getting Started
+Prerequisites
+
+    Java Development Kit (JDK)
+    SQL Database (e.g., MySQL)
+    Integrated Development Environment (IDE) like Visual Studio Code
 Creator:Krishan Shah
